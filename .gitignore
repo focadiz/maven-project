@@ -1,0 +1,12 @@
+mule-project.xml
+.mule/
+target/
+bin/
+.settings/
+.project
+.studio/
+.classpath
+derby.log
+activemq-data/
+
+
